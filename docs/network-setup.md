@@ -25,4 +25,4 @@ Follow LUKSO's official documentation for the next steps.
 [Run a node](https://docs.lukso.tech/networks/l16-testnet/run-node)
 [Become a validator](https://docs.lukso.tech/networks/l16-testnet/become-validator)
 
-Please review all the information in their website's [Network](https://docs.lukso.tech/networks/l16-testnet/) documentation. Once your node is up and running, return here to complete the steps for monitoring.
+Please review all the information in the [Network](https://docs.lukso.tech/networks/l16-testnet/) section of LUKSO's website. Once your node is up and running, return here to complete the steps for monitoring.
