@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: 1: System Setup
+nav_order: 1
+---
 
 # Step 3: LUKSO Network Setup
 
