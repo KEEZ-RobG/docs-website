@@ -4,7 +4,7 @@ title: 1: System Setup
 nav_order: 1
 ---
 
-# Step 1: System Setup
+## Step 1: System Setup
 
 In this section we will cover the hardware and operating system needed for running a node.
 
