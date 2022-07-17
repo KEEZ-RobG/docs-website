@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1: System Setup
+title: 1 System Setup
 nav_order: 1
 ---
 
