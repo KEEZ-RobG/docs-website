@@ -20,12 +20,9 @@ A validator consists of a LUKSO node and a third piece of client software respon
 
 ## Run a Node and Validator
 
-Follow LUKSO's official documentation for the next two steps of this guide.
+Follow LUKSO's official documentation for the next steps.
 
-4. [Run a node](https://docs.lukso.tech/networks/l16-testnet/run-node)
-5. 
-6. [Become a validator](https://docs.lukso.tech/networks/l16-testnet/become-validator) (optional)
+[Run a node](https://docs.lukso.tech/networks/l16-testnet/run-node)
+[Become a validator](https://docs.lukso.tech/networks/l16-testnet/become-validator)
 
 Please review all the information in their website's [Network](https://docs.lukso.tech/networks/l16-testnet/) documentation. Once your node is up and running, return here to complete the steps for monitoring.
-
-6. Monitoring
