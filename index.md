@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+nav_order: 0
+---
+
 # About
 
 LUKSO is a blockchain of standards for onboarding the non-technical everyday person. Through innovative smart contract standards and an unprecedented user experience, it will remove the entry barrier of complication and risk associated with managing crypto assets. As a result of this new opportunity, a rich and diverse community, excited to take advantage of the possibilities enabled by decentralization and digital ownership, has emerged.
