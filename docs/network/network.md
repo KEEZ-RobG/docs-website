@@ -2,6 +2,7 @@
 layout: default
 title: 3 Network Setup
 nav_order: 3
+parent: The Guide
 ---
 
 # Step 3: LUKSO Network Setup
