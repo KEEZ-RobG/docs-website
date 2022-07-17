@@ -28,12 +28,12 @@ sudo apt install --assume-yes openssh-server
 
 
 
-Open the SSH config file
+1. Open the SSH config file
 
 ```
 sudo nano /etc/ssh/sshd_config
 ```
-**Enable SSH Port**
+2. Enable SSH Port
 
 Find the line that says `#Port 22` and remove the `#` sign.
 
