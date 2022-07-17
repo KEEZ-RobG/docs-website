@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2: Remote Access
+title: 2 Remote Access
 nav_order: 2
 has_children: true
 permalink: /docs/remote-access
