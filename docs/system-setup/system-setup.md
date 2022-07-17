@@ -2,6 +2,7 @@
 layout: default
 title: 1 System Setup
 nav_order: 1
+parent: The Guide
 ---
 
 ## Step 1: System Setup
