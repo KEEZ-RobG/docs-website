@@ -1,17 +1,16 @@
 ---
 layout: default
-title: About
+title: The Guide
 nav_order: 0
+has_children: true
 ---
 
-# About
+# About This Guide
 
 LUKSO is a blockchain of standards for onboarding the non-technical everyday person. Through innovative smart contract standards and an unprecedented user experience, it will remove the entry barrier of complication and risk associated with managing crypto assets. As a result of this new opportunity, a rich and diverse community, excited to take advantage of the possibilities enabled by decentralization and digital ownership, has emerged.
 
 The LUKSO blockchain offers a rare opportunity: participation in the launch of a highly decentralized blockchain, a sister to Ethereum 2.0 nonetheless!
 To participate in a true proof-of-stake blockchain, you must run a  node and validator software on your own hardware or a cloud platform. Other options (such as staking pools) will exist in the future, but those require giving up custody of your keys to a third-party service and will not benefit from the high rewards of the initial launch period.
-
-
 
 
 ## Objective
