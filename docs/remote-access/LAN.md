@@ -33,10 +33,12 @@ Open the SSH config file
 ```
 sudo nano /etc/ssh/sshd_config
 ```
-Enable SSH Port
+**Enable SSH Port**
+
 Find the line that says `#Port 22` and remove the `#` sign.
 
-Change SSH Port Number
+**Change SSH Port Number**
+
 The default SSH port (22) should be changed to a random number for security reasons.
 
 Choose a number between 1024 thru 49141. 
@@ -46,7 +48,7 @@ Change `Port 22` to `Port <ssh-port>`
 
 Close the editor by pressing `ctrl` + `X`, then `y` , then `Enter`
 
-Configure Firewall
+### Configure Firewall
 
 Open the SSH port in your firewall. Remember to replace `<your-port>` with the number you chose.
 
