@@ -26,11 +26,11 @@ Enabling WAN access requires opening a port on your router, which exposes your h
 Choose your operating system and LAN/WAN preference.
 
 
-| Operating System | LAN only | LAN & WAN |
-| -------- | -------- | -------- |
-| Ubuntu     | LAN     | WAN     |
-| Mac (comming soon)    | LAN     | WAN     |
-| Windows     | LAN     | WAN     |
+| LAN only | LAN & WAN |
+| -------- | -------- |
+| Ubuntu     | Ubuntu|
+| Mac (comming soon) | MAC| 
+| Windows     |Windows|
 
 
 
