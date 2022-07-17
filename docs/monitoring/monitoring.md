@@ -2,6 +2,7 @@
 layout: default
 title: 4 Monitoring
 nav_order: 4
+parent: The Guide
 ---
 
 ## Monitoring
