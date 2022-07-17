@@ -1,5 +1,10 @@
 remote_theme: just-the-docs/just-the-docs
 
+title: Validator KEEZ
+description: A community resource for LUKSO network validators
+baseurl: "/docs-website" # the subpath of your site, e.g. /blog
+url: "https://keez-robg.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
