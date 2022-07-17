@@ -2,8 +2,8 @@
 layout: default
 title: 2 Remote Access
 nav_order: 2
+parent: The Guide
 has_children: true
-permalink: /docs/remote-access
 ---
 
 # Step 2: Remote Access
