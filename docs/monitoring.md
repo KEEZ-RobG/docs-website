@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4: Monitoring
+title: MMonitoring
 nav_order: 4
 ---
 
