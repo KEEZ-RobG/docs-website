@@ -1,8 +1,11 @@
 ---
 layout: default
-title: Maintenance 
+title: Security Best Practices 
 nav_order: 2
-has_children: true
+has_children: false
 ---
 
+# Comming Soon
 
+Source
+https://raw.githubusercontent.com/prysmaticlabs/documentation/master/website/docs/security-best-practices.md
