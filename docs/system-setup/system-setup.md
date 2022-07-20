@@ -31,7 +31,7 @@ Mini PCs are designed for 24/7 use and low power consumption, making them ideal 
 
 
 
-|           | Intel NUC 10<br> (Minimum)         | Intel NUC 10 |Intel NUC 10 <br>Performance Kit <br> (Overkill) |
+|           | Intel NUC 10<br> (Minimum)         | Intel NUC 10 |Intel NUC 10 <br>Performance Kit <br> |
 | --------  | --------                           | -------- |-----
 | Processor | i3 2-cores                         | i5 4-core| i7 6-core
 | RAM       | 16GB                               | 16GB     | 32GB
